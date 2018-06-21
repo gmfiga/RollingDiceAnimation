@@ -14,6 +14,12 @@
 		C3072C4A20DAC5A700507910 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3072C4820DAC5A700507910 /* LaunchScreen.storyboard */; };
 		C3072C5520DAC5A700507910 /* RollingDiceAnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3072C5420DAC5A700507910 /* RollingDiceAnimationTests.swift */; };
 		C3072C6020DAC5A700507910 /* RollingDiceAnimationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3072C5F20DAC5A700507910 /* RollingDiceAnimationUITests.swift */; };
+		C3072C7320DAC5F400507910 /* dice3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3072C6D20DAC5F300507910 /* dice3.jpg */; };
+		C3072C7420DAC5F400507910 /* dice1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3072C6E20DAC5F300507910 /* dice1.jpg */; };
+		C3072C7520DAC5F400507910 /* dice4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3072C6F20DAC5F400507910 /* dice4.jpg */; };
+		C3072C7620DAC5F400507910 /* dice2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3072C7020DAC5F400507910 /* dice2.jpg */; };
+		C3072C7720DAC5F400507910 /* dice5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3072C7120DAC5F400507910 /* dice5.jpg */; };
+		C3072C7820DAC5F400507910 /* dice6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3072C7220DAC5F400507910 /* dice6.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +53,12 @@
 		C3072C5B20DAC5A700507910 /* RollingDiceAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RollingDiceAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3072C5F20DAC5A700507910 /* RollingDiceAnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RollingDiceAnimationUITests.swift; sourceTree = "<group>"; };
 		C3072C6120DAC5A700507910 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3072C6D20DAC5F300507910 /* dice3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dice3.jpg; path = ../../../../../Volumes/public/ios/dice3.jpg; sourceTree = "<group>"; };
+		C3072C6E20DAC5F300507910 /* dice1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dice1.jpg; path = ../../../../../Volumes/public/ios/dice1.jpg; sourceTree = "<group>"; };
+		C3072C6F20DAC5F400507910 /* dice4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dice4.jpg; path = ../../../../../Volumes/public/ios/dice4.jpg; sourceTree = "<group>"; };
+		C3072C7020DAC5F400507910 /* dice2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dice2.jpg; path = ../../../../../Volumes/public/ios/dice2.jpg; sourceTree = "<group>"; };
+		C3072C7120DAC5F400507910 /* dice5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dice5.jpg; path = ../../../../../Volumes/public/ios/dice5.jpg; sourceTree = "<group>"; };
+		C3072C7220DAC5F400507910 /* dice6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dice6.jpg; path = ../../../../../Volumes/public/ios/dice6.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +109,12 @@
 		C3072C3E20DAC5A700507910 /* RollingDiceAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				C3072C6E20DAC5F300507910 /* dice1.jpg */,
+				C3072C7020DAC5F400507910 /* dice2.jpg */,
+				C3072C6D20DAC5F300507910 /* dice3.jpg */,
+				C3072C6F20DAC5F400507910 /* dice4.jpg */,
+				C3072C7120DAC5F400507910 /* dice5.jpg */,
+				C3072C7220DAC5F400507910 /* dice6.jpg */,
 				C3072C3F20DAC5A700507910 /* AppDelegate.swift */,
 				C3072C4120DAC5A700507910 /* ViewController.swift */,
 				C3072C4320DAC5A700507910 /* Main.storyboard */,
@@ -232,9 +250,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3072C7320DAC5F400507910 /* dice3.jpg in Resources */,
+				C3072C7520DAC5F400507910 /* dice4.jpg in Resources */,
+				C3072C7720DAC5F400507910 /* dice5.jpg in Resources */,
 				C3072C4A20DAC5A700507910 /* LaunchScreen.storyboard in Resources */,
 				C3072C4720DAC5A700507910 /* Assets.xcassets in Resources */,
 				C3072C4520DAC5A700507910 /* Main.storyboard in Resources */,
+				C3072C7620DAC5F400507910 /* dice2.jpg in Resources */,
+				C3072C7820DAC5F400507910 /* dice6.jpg in Resources */,
+				C3072C7420DAC5F400507910 /* dice1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
